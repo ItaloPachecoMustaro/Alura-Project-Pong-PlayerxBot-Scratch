@@ -9,4 +9,4 @@ Programming Logic: Get Started in Logic with Pong Game and JavaScript
 
 ## Scratch access link:
 
-[View Project](https://scratch.mit.edu/projects/828066250)
+[Scratch Project](https://scratch.mit.edu/projects/828066250)
